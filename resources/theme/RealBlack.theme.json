@@ -1,0 +1,20 @@
+{
+  "name": "RealBlack",
+  "author": "YourCompany",
+  "dark": true,
+  "colors": {
+    "black": "#000000",
+    "white": "#ffffff",
+    "border": "#888888"
+  },
+  "ui": {
+    "*":{
+      "background": "black",
+      "foreground": "white",
+      "windowBorder": "black",
+      "borderColor": "border",
+      "selectionBackground": "#8a4b15"
+    },
+    "Button.background": "black"
+  }
+}
